@@ -7,3 +7,8 @@ public class ScalesClass {
 			System.out.println(num);
 	}
 }
+
+	public void print() {
+		System.out.println("Print all arry number:");
+		display();
+	}
